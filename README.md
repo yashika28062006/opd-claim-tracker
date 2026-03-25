@@ -45,14 +45,6 @@ Users can submit claim details, and the system automatically assigns a status ba
 
 ---
 
-## 📸 Preview
-
-
-
-
-
----
-
 ## ⚙️ How to Run Locally
 
 ### 1. Clone the repository

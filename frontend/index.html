@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>OPD Claim Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+  <h1>🏥 OPD Claim Tracker</h1>
+
+  <div class="card form-card">
+    <form id="claimForm">
+      <input type="text" id="name" placeholder="Patient Name" required />
+      <input type="text" id="hospital" placeholder="Hospital Name" required />
+      <input type="number" id="amount" placeholder="Bill Amount" required />
+      <button type="submit">Submit Claim</button>
+    </form>
+  </div>
+
+  <h2>📋 Submitted Claims</h2>
+  <div id="claimsList"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

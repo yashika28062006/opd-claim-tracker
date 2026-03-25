@@ -83,6 +83,6 @@ Yashika Sridhar
 
 GitHub: https://github.com/yashika28062006
 
-Fronteend Deployment Link - https://mediclaimtracker.netlify.app/ 
+Frontend Deployment Link - https://mediclaimtracker.netlify.app/ 
 
 Backend Deployment Link - https://opd-claim-backend.onrender.com

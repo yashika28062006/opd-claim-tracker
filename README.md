@@ -79,7 +79,7 @@ Improving transparency
 🔄 Real-time updates with WebSockets
 👩‍💻 Author
 
-Yashika Sridhar
+Yashika Sridhar.
 
 GitHub: https://github.com/yashika28062006
 
